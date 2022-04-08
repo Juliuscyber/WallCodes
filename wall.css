@@ -951,9 +951,11 @@ body2 {
     font-size: 18px;
 }
 @media screen and (max-width:350px){
-    .container6{
-        width: 120%;
-    }
+.container6 {
+    width: 130%;
+    padding: 10px;
+    display: block;
+}
     .contact-form h2 {
         font-size: 25px;
         color: #333;
